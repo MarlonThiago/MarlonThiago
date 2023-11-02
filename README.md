@@ -2,7 +2,6 @@
 
 - 💬 Ask me about ...
 - 📫 contate-me no email:marlonthiago718@gmail.com 
-- 😄 Pronouns:ele/dele
 - 🎒 Aluno SENAI - Lauro de Freitas. (Desenvolvimento de Sistema)
  <div  align="center"> 
   <div style="display: inline_block"><br>
